@@ -1,4 +1,4 @@
-// Created by Jenya Ivanov - ID: 321858136 & Tair Farangi - ID: ID: 207215278
+// Created by Jenya Ivanov & Tair Farangi 
 package Exe2;
 
 public class Car extends Thread {
